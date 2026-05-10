@@ -25,14 +25,4 @@
     · Ileriayo/markdown-badges
       (<a href="https://github.com/Ileriayo/markdown-badges/pull/83">#83</a>)
 
-  Past projects:
 
-    · <a href="https://github.com/crxssed7/cosmos">cosmos</a> (Kotlin, Compose)
-    · <a href="https://tankobon.fly.dev/">Tankōbon</a> (Django, <a href="https://github.com/crxssed7/tankobon">source</a>)
-    · <a href="https://github.com/crxssed7/tankobon_mobile/">Tankōbon Mobile</a> (Flutter)
-    · <a href="https://github.com/kitric/passguard/">PassGuard</a> (C#, WinForms)
-    · <a href="https://github.com/kitric/comicpeeps/">ComicPeeps</a> (C#, WinForms)
-    · <a href="https://crxssed7.itch.io/telepeeps/">TelePeeps</a> (C#, WinForms)
-
-    <a href="https://github.com/crxssed7?tab=repositories">plus more...</a>
-</pre>
