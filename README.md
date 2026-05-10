@@ -6,7 +6,7 @@
 
 <table>
 <tr>
-<td width="80%">
+<td width="60%", hight="60">
 
 # 👨‍💻 About Me:
 
