@@ -4,8 +4,22 @@
   <hr>
 </div>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="430" height="280" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="430" height="280" style="margin-left:20px;" />
 
 <h3>👨‍💻 About Me:</h3>
 
-Passionate Machine Learning Engineer and AI Engineering student at <strong>Egypt-Japan University of Science and Technology</strong>, dedicated to building intelligent systems that solve real-world problems. Driven by a deep fascination with transforming data into actionable insights through <strong>Machine Learning</strong>, <strong>Data Analysis</strong>, and <strong>AI-driven solutions</strong>. Specialized in designing scalable ML models, exploring deep learning architectures, developing Python-based applications, and creating creative visual designs through <strong>Graphic Design</strong>. Enjoys combining innovation, problem-solving, and user-centric design to build impactful and efficient solutions.
+<p style="text-align: justify; line-height: 1.8;">
+Passionate Machine Learning Engineer and AI Engineering student at <strong>Egypt-Japan University of Science and Technology</strong>, dedicated to building intelligent systems that solve real-world problems.
+</p>
+
+<p style="text-align: justify; line-height: 1.8;">
+Driven by a deep fascination with transforming data into actionable insights through <strong>Machine Learning</strong>, <strong>Data Analysis</strong>, and <strong>AI-driven solutions</strong>.
+</p>
+
+<p style="text-align: justify; line-height: 1.8;">
+Specialized in designing scalable ML models, exploring deep learning architectures, developing Python-based applications, and creating creative visual designs through <strong>Graphic Design</strong>.
+</p>
+
+<p style="text-align: justify; line-height: 1.8;">
+Enjoys combining innovation, problem-solving, and user-centric design to build impactful and efficient solutions.
+</p>
