@@ -4,7 +4,7 @@
   <hr>
 </div>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450" height="450" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450" height="300" />
 
 # 👨‍💻 About Me:
 
