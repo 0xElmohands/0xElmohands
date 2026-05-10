@@ -20,7 +20,7 @@ Enjoys combining innovation, problem-solving, and user-centric design to build i
 
 </td>
 
-<td width="40%" align="center">
+<td width="60%" align="center">
 
 <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450"/>
 
